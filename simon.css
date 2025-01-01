@@ -1,0 +1,48 @@
+body {
+    text-align: center;
+    background-color:rgb(206, 169, 227);
+    
+  }
+ h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: darkblue;
+    color: white; /* Text color to contrast with the dark background */
+    padding: 10px 20px; /* Adds some space around the text */
+    border-radius: 5px; /* Rounds the corners of the background */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Adds a subtle shadow around the element */
+    text-align: center; /* Centers the text inside the h1 */
+}
+  
+  .btn {
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 10px solid black;
+    margin: 2rem;
+  }
+  
+  .btn-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  .yellow {
+    background-color: yellow;
+  
+  }
+  .red {
+    background-color: red;
+  }
+  .green {
+    background-color: green;
+  }
+  .purple {
+    background-color: purple;
+  }
+
+.flash {
+    background-color: white;
+}
+.userflash {
+  background-color: white;
+}
