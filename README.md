@@ -21,16 +21,6 @@ The highest score will be saved and displayed throughout the game.
 Installation
 Clone this repository to your local machine using the following command:
 
-bash
-Copy code
-git clone https://github.com/your-username/simon-game.git
-Navigate to the project folder:
-
-bash
-Copy code
-cd simon-game
-Open the index.html file in your browser to start playing.
-
 Files Included
 index.html – The main HTML structure of the game.
 style.css – The styling for the game (including colors, buttons, and layout).
@@ -38,6 +28,7 @@ script.js – The JavaScript logic for the game functionality (including sequenc
 levelSound.mp3 – Sound played when advancing a level.
 gameover.mp3 – Sound played when the game is over.
 celebration.mp3 – Sound played when a new high score is achieved.
+
 Customization
 You can modify the game by:
 
